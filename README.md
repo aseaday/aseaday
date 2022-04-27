@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, this is a a new start after 40 days lockdown in Shanghai 👋
+I have participated in  some open source projects like Linux, Web Asm. But I decided to to speak some code which may be more funny to me in this social account. I am interested in project:
+- Nuclear Fusion Design and Simulating
+- RISC-V
+- Macro Economy
+- Zero Knowledge and Privacy Computing
+- Maybe some interestring AI staff
+
 
 <!--
 **aseaday/aseaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
