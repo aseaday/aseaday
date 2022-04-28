@@ -2,8 +2,8 @@
 I have participated in  some open source projects like Linux, Web Asm. But I decided to to speak some code which may be more funny to me in this social account.
 - 🤔I am interested in:
   - Nuclear Fusion Power Model
-  - Macro Economy and Monetary Policy Simulator
-  - Zero Knowledge and Privacy Computing
+  - Macro Economy
+  - Zero Knowledge & Privacy Computing
   - Maybe some interestring AI stuaff
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aseaday&count_private=true&show_icons=true&theme=vue" />
