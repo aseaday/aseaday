@@ -6,7 +6,7 @@ I have participated in  some open source projects like Linux, Web Asm. But I dec
   - Zero Knowledge and Privacy Computing
   - Maybe some interestring AI stuaff
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=aseaday&count_private=true&show_icons=true&theme=vue" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aseaday&count_private=true&show_icons=true&theme=vue" />
 
 <!--
 **aseaday/aseaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
