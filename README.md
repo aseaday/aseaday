@@ -1,9 +1,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aseaday&count_private=true&show_icons=true&theme=vue" />
 
-### Hi, there is a a new start after 47 days lockdown in Shanghai 👋
-I have participated in  some open source projects like Linux, Web Asm. But I decided to to speak some code which may be more funny to me in this social account.
-- 🤔I am interested in:
+### In memory of a 48 days lockdown in Shanghai
+- 🔭 I have participated in some open source projects like linux,webassembly.
+- 😄 I am working on some speech freedom projects:
+  - Open Source Starlink
+- 🤔 I am also interested in:
   - Nuclear Fusion Power Model
   - Macro Economy
   - Zero Knowledge
