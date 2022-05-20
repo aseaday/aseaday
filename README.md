@@ -4,7 +4,7 @@
 ### In memory of a 61 days lockdown in Shanghai
 - 🔭 I have participated in some open source projects like linux,webassembly.
 - 😄 I am working on some speech freedom projects:
-  - Open Source Starlink
+  - Zero Knowledge Content Unlock
 - 🤔 I am also interested in:
   - Nuclear Fusion Power Model
   - Macro Economy
