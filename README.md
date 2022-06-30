@@ -8,5 +8,5 @@
 - 🤔 I am also interested in:
   - Fusion Power
   - Macro Economy
-  - Zero Knowledge
   - Interesting AI Stuff
+Blog: blog.nullday.xyz
