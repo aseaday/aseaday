@@ -10,4 +10,4 @@
   - Macro Economy
   - Interesting AI Stuff
 
-You could visit [My Blog](blog.nullday.xyz)
+You could visit [My Blog](https://blog.nullday.xyz)
