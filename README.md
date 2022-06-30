@@ -9,4 +9,5 @@
   - Fusion Power
   - Macro Economy
   - Interesting AI Stuff
-Blog: blog.nullday.xyz
+
+You could visit [My Blog](blog.nullday.xyz)
