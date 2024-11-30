@@ -4,4 +4,4 @@
 I am interesting in:
 - controlled fusion
 - high performance computing
-- AI translation 
+- AI application in open world, music generation and translation.
